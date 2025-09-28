@@ -1,0 +1,191 @@
+{
+  "header": {
+    "logo": "Uzum Tezkor",
+    "nav": {
+      "benefits": "Afzalliklar",
+      "calculator": "Daromad kalkulyatori",
+      "referral": "Do'stni taklif qiling",
+      "reviews": "Sharhlar",
+      "faq": "Savol javoblar",
+      "become_courier": "Kuryer bo'lish"
+    },
+    "language": "RU"
+  },
+  "hero": {
+    "title": "Bugundan kuryerga aylanish va oyiga 15 million so'm gacha daromad topishni boshlang",
+    "cta_button": "Kuryer bo'lish"
+  },
+  "benefits": {
+    "title": "Nega aynan Uzum Tezkor?",
+    "items": [
+      {
+        "title": "Erkin jadval",
+        "description": "Buyurtmalarni qayerda va qachon yetkazishni o'zingiz tanlaysiz."
+      },
+      {
+        "title": "Barqaror daromad. Kechikishlarsiz",
+        "description": "Har kuni naqd pul ishlang, karta orgali to'lovlarni esa oyiga 2 marta oling."
+      },
+      {
+        "title": "Kuryerlarimizning bir oyga o'rtacha daromadi:",
+        "description": "Velo — 10 million so'm\nAvto — 15 million so'm"
+      },
+      {
+        "title": "O'qitish va doimiy qo'llab-quvvatlash",
+        "description": "Tez o'qitish, har bir bosqichda yordam — hattoki bu sizning birinchi smenangiz qolmaysiz."
+      },
+      {
+        "title": "",
+        "description": ""
+      },
+      {
+        "title": "Ko'proq daromad qilasiz, agar:",
+        "description": "",
+        "multipliers": [
+          "Velosiped, samokat yoki skuterda yetkazdirsangiz: 3 barobar ko'proq",
+          "Avtomobil yoki motoda yetkazdirsangiz: 5 barobar ko'proq"
+        ]
+      }
+    ]
+  },
+  "calculator": {
+    "title": "Daromad kalkulyatori",
+    "description": "O'z daromadingizni hisoblang — grafik, shahar, tashish turi va ish vaqtini tanlang",
+    "city": "Shaharni tanlang",
+    "transport": "Transport turi",
+    "transport_options": {
+      "auto": "Auto",
+      "moto": "Moto",
+      "bike": "Velo", 
+      "ebike": "Elektr velo",
+      "walk": "Piyoda"
+    },
+    "hours_label": "Kuniga necha soat buyurtmalar yetkazib berishni rejalashtiryapsiz:",
+    "days_label": "Bir oyda necha kun buyurtmalar yetkazib berishni rejalashtiryapsiz:",
+    "your_income": "Daromadingiz",
+    "time_units": {
+      "hours": "soat",
+      "hours_few": "soat",
+      "day": "kun",
+      "days": "kun"
+    },
+    "currency": "s'om",
+    "cities": {
+      "tashkent": "Toshkent",
+      "samarkand": "Samarqand",
+      "fergana": "Farg'ona", 
+      "bukhara": "Buxoro",
+      "andijan": "Andijon",
+      "navoi": "Navoiy",
+      "namangan": "Namangan",
+      "kokand": "Qo'qon",
+      "karshi": "Qarshi",
+      "urgench": "Urganch",
+      "nukus": "Nukus",
+      "chirchik": "Chirchiq"
+    }
+  },
+  "referral": {
+    "title": "Do'stingizni taklif qiling va 6 million s'om oling!",
+    "description": "Do'stlaringiz va tanishlaringiz bilan daromad topish imkoniyatini bo'lishing. Muvaffaqiyatli ro'yxatdan o'tgan har bir kuryer uchun pul mukofoti olasiz.",
+    "reward_text": "Taklif qilganingiz uchun mukofot:",
+    "reward_amount": "6 000 000\ns'om",
+    "cta_button": "Do'stni tavsiya qilish",
+    "terms": "Referal dasturining to'liq shartlari havola orqali mavjud"
+  },
+  "requirements": {
+    "title": "Boshlash uchun nima kerak",
+    "age": {
+      "title": "Yoshingiz",
+      "description": "18 yoshdan 55 yoshgacha"
+    },
+    "smartphone": {
+      "title": "Smartfon",
+      "description": "Android platformasidagi telefon, minimal versiyasi — 6.0"
+    }
+  },
+  "reviews": {
+    "title": "Kuryer - hamkorlarimizni fikrlari",
+    "items": [
+      {
+        "name": "Maxim",
+        "text": "Uzum Tezkorning menga eng yoqqan jihat – to'lovlarning osonligi. Xohlasang – kartaga, xohlasang – naqd qilib olasan. Pul doim yoningda, kechikishlarsiz!"
+      },
+      {
+        "name": "Ozodbek", 
+        "text": "Men Uzum Tezkor dan mijoz sifatida foydalanib ko'rdim va servisdan mamnun bo'ldim. Shuning uchun jamoaga qo'shilishga qaror qildim — boshqalar uchun ham yetkazib berish tez va sifatli bo'lishini istayman."
+      },
+      {
+        "name": "Aziz",
+        "text": "Uzum Tezkor da juda qulay — ishlagan pulim tezda kartamga tushadi. Smenalarni o'zim tanlab, o'zimga mos vaqtda ishlayman. Boshqa servislarga nisbatan ko'proq daromad qilaman. Shuning uchun ham bu yerda ishlayman."
+      },
+      {
+        "name": "Elbek",
+        "text": "Men Uzum Tezkor'da kuryer bo'lib anchadan beri ishlayman va ishimizdan juda mamnunman. Men talabaman, va ish jadvali darslarimga juda mos keladi. Ba'zida 12\u201315 soatlab ishlayman, lekin ertasi kuni ham kuch topib ishlashda davom etaman, chunki bu ish menga yoqadi."
+      }
+    ]
+  },
+  "how_to_start": {
+    "title": "Biz bilan — oson!",
+    "form_title": "Bir necha daqiqada\nanketa to'ldiring",
+    "form_button": "To'ldiring",
+    "chat_title": "Biz siz bilan bog'lanamiz va tafsilotlarni aniqlaymiz",
+    "steps": [
+      {
+        "title": "Qisqa o'qitishdan\no'ting"
+      },
+      {
+        "title": "Yetkazib berishni\nboshlang va\ndaromad toping"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Asosan so'raladigan savollar",
+    "items": [
+      {
+        "question": "Kuryerlarga qanday talablar qo'yiladi?",
+        "answer": "Kuryer sifatida ishlashi uchun 18 yoshdan katta bo'lish, Android 6.0 versiyasi asosidagi smartfonga ega bo'lish, o'zbek tilini bilish va og'zaki rus tilini bilish kifoya."
+      },
+      {
+        "question": "Kuryer bo'lib ishlash uchun qanday hujjatlar kerak?",
+        "answer": "Pasportning asl nusxasi, bank kartangiz ma'lumotlari kerak bo'ladi, agar siz mashinada ishlasangiz shuningdek haydovchilik guvohnomasi va avtomobilingiz texpasporti kerak."
+      },
+      {
+        "question": "Kuryer mukofotlari nimaga bog'liq?",
+        "answer": "Ish haqi navbatchilik davomiyligiga, bajarilgan buyurtmalar soniga shuningdek intizom va xizmat ko'rsatish standartlari muvofiqligiga bog'liq."
+      },
+      {
+        "question": "Qaysi shaharlarda buyurtmalar yetkazib berish mumkin?",
+        "answer": "Bizning kuryerimiz bo'lishingiz mumkin Toshkent, Samarqand, Farg'ona, Andijon, Namangan, Qo'qon, Qarshi, Urganch, Nukus, Chirchiq, Buxoro va Navoiy shaharlarida."
+      },
+      {
+        "question": "Men buyurtmalarni velosiped/samokat/piyoda yetkazib bera olamanmi?",
+        "answer": "Siz yetkazmani o'zingizga qulay transport turida yetkazishingiz mumkin, ular avtomobil, velosiped, samokat, skuter, roliklar yoki piyoda bo'lishi mumkin. Tezligingiz qancha tez bo'lsa shuncha ko'p buyurtma yetkazib bera olasiz shunga qarab mukofotingiz ham oshadi."
+      }
+    ]
+  },
+  "cities": {
+    "buttons": {
+      "tashkent": "Kuryer Toshkent",
+      "uzbekistan": "Kuryer Uzbekistan",
+      "samarkand": "Kuryer Samarqand",
+      "fergana": "Kuryer Fergana",
+      "bukhara": "Kuryer Buxoro",
+      "andijan": "Kuryer Andijon",
+      "navoi": "Kuryer Navoi",
+      "namangan": "Kuryer Namangan",
+      "kokand": "Kuryer Qo'qon",
+      "karshi": "Kuryer Qarshi",
+      "urgench": "Kuryer Urganch",
+      "nukus": "Kuryer Nukus",
+      "chirchik": "Kuryer Chirchiq"
+    }
+  },
+  "footer": {
+    "address": "Manzil: O'zbekiston, g. Toshkent, Yunusobod tumani, Kichik halqali yo'l, 54",
+    "phone": "+998 (78) 777–01–56", 
+    "email": "support@uzum.com",
+    "company": "UZUM Tezkor MChJ tomonidan",
+    "policy": "Umumiy taklifnoma"
+  }
+}
