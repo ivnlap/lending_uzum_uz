@@ -12,11 +12,21 @@ const resources = {
   }
 };
 
+// Определяем язык из data-lang атрибута на HTML элементе
+const getInitialLanguage = (): string => {
+  const htmlLang = document.documentElement.getAttribute('data-lang');
+  if (htmlLang && (htmlLang === 'ru' || htmlLang === 'uz')) {
+    return htmlLang;
+  }
+  // Fallback на localStorage или русский
+  return localStorage.getItem('language') || 'ru';
+};
+
 i18n
   .use(initReactI18next)
   .init({
     resources,
-    lng: localStorage.getItem('language') || 'ru',
+    lng: getInitialLanguage(),
     fallbackLng: 'ru',
     interpolation: {
       escapeValue: false
