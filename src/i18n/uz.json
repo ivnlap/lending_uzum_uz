@@ -86,10 +86,10 @@
     }
   },
   "referral": {
-    "title": "Do'stingizni taklif qiling va 6 million s'om oling!",
+    "title": "Do'stingizni taklif qiling va 3,6 million s'om oling!",
     "description": "Do'stlaringiz va tanishlaringiz bilan daromad topish imkoniyatini bo'lishing. Muvaffaqiyatli ro'yxatdan o'tgan har bir kuryer uchun pul mukofoti olasiz.",
     "reward_text": "Taklif qilganingiz uchun mukofot:",
-    "reward_amount": "6 000 000\ns'om",
+    "reward_amount": "3 600 000\ns'om",
     "cta_button": "Do'stni tavsiya qilish",
     "terms": "Referal dasturining to'liq shartlari havola orqali mavjud"
   },
